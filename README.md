@@ -34,8 +34,8 @@ End the program
 
 ```
 #Program to find the number of words in a text file
-#DEVELOPED BY : MOHAMMED SAAJID S
-#REGISTER NUMBER: 212223240093
+#DEVELOPED BY : PAVITHRAN MJ
+#REGISTER NUMBER: 212223240112
 
 num=0
 with open("story.txt","r") as f1:
